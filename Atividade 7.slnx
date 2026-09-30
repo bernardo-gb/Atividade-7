@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Default" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="Scripts do SQL Server1/Scripts do SQL Server1.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <BuildType Project="Default" />
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+</Solution>
